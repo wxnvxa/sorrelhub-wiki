@@ -131,8 +131,6 @@ lovey0x said LoveyWare would continue updating, but would no longer work with `V
 
 On the same day, `WinWare Pre-Alpha Test` was reopened for an indefinite period.
 
-A traditional Sorrel Hub deletion event was also held: a new Russian server was created to be deleted as part of the tradition.
-
 ### 2026-01-05
 
 The `sorrelhub.xyz` website officially moved to v2:
@@ -158,3 +156,7 @@ WinWare was promised for release before this date, but the release did not happe
 `TargetWare` was officially created and published.
 
 Before that, it existed as `predict tp` and `target esp`.
+
+### 2026-06-01
+
+A traditional Sorrel Hub deletion event was held: a new Russian server was created to be deleted as part of the tradition.
