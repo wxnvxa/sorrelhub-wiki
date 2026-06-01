@@ -4,6 +4,10 @@
 
 The main brand and umbrella for the ecosystem.
 
+Historically, Sorrel Hub started as a Discord server for Winner's Roblox game `Щавель обби` and future places. This detail matters because old Sorrel Hub was not a script hub in the current meaning. It was more about a game community and future Roblox projects.
+
+Later, around September-October 2025, Sorrel Hub started turning into a project around Roblox scripts, web, backend/API, and other dev directions.
+
 Directions:
 
 - web dashboard
@@ -16,6 +20,8 @@ Directions:
 ## Sorrel Hub: NextGen
 
 The current era after the November 2025 reboot.
+
+The current Sorrel Hub: NextGen was created by Winner and Lovey0x. Lox / `lox_228` belongs to the pre-NextGen era as co-owner of old Sorrel Hub until the end of that era.
 
 `NextGen` should be understood as a chapter/reboot name. In the future, the public name may return to just `Sorrel Hub`.
 
@@ -36,7 +42,9 @@ The cabinet is not currently split into a separate subdomain.
 
 ## WinWare
 
-WinWare is Winner's Roblox/Luau project line.
+WinWare is a Roblox/Luau direction focused on HvH, Visuals, and related modules.
+
+In simple terms, WinWare should not be described only as a farming script. It had a PVE history, but the current meaning is wider: visuals, HvH logic, gameplay modules, UI, and Roblox/Luau experiments.
 
 Known stages:
 
@@ -47,7 +55,9 @@ Known stages:
 
 ## LoveyWare
 
-LoveyWare is lovey0x's script project.
+LoveyWare is Lovey0x's direction, not just "one script".
+
+If WinWare is described through HvH/Visuals, LoveyWare is better described as a bypass-oriented direction and a set of modules around that approach. This is part of the current Sorrel Hub: NextGen story because Lovey0x is a co-owner of the current era, not just the author of a separate file.
 
 Facts:
 
@@ -65,7 +75,7 @@ Facts:
 
 - officially created and published on 2026-04-18
 - related to Roblox gameplay modifications and script analysis
-- early predict tp tests are part of the story of how Winner and lovey0x met
+- early predict tp tests are part of the story of how Winner and Lovey0x met
 
 ## Sorrel AI
 

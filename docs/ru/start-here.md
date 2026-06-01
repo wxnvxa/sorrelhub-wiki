@@ -1,13 +1,17 @@
 # Начать здесь
 
-Sorrel Hub - dev-экосистема, созданная Winner / Lox. Проект начался как идея Roblox script hub, но со временем вырос в более широкий набор проектов: сайт, backend/API, WinWare, LoveyWare, TargetWare, Sorrel AI и отдельные tools.
+Sorrel Hub - dev-экосистема Winner и Lovey0x. Самый первый Sorrel Hub появился не как script hub, а как Discord-сервер для Roblox-игры Winner `Щавель обби` и будущих плейсов.
+
+Изначальная логика была простой: есть Roblox-игра, вокруг нее нужен сервер, комьюнити, место для новостей и будущих проектов. Поэтому слово `hub` тогда означало не "script hub", а скорее центр вокруг игры и будущих плейсов.
+
+Только в сентябре-октябре 2025 Sorrel Hub начал становиться не игровым Discord-сервером, а проектом ближе к нынешнему формату: Roblox scripts, web, backend/API, UI, AI, WinWare, LoveyWare, TargetWare и отдельные tools.
 
 ## Самое короткое объяснение
 
 - `Sorrel Hub` - главный бренд.
 - `Sorrel Hub: NextGen` - текущая эпоха и перезапуск проекта.
-- `WinWare` - Roblox/Luau направление Winner.
-- `LoveyWare` - скрипт lovey0x.
+- `WinWare` - Roblox/Luau направление с фокусом на HvH, Visuals и связанные модули.
+- `LoveyWare` - направление Lovey0x с фокусом на bypass-oriented модули и похожие вещи.
 - `TargetWare` - проект, выросший из predict tp и target esp.
 - `Sorrel AI` - AI-бот в экосистеме Sorrel Hub.
 - `ExploitRPC` - open-source Windows tool для Discord Rich Presence.
@@ -38,6 +42,14 @@ NextGen - текущий chapter/reboot
 ```
 
 В будущем публичное название может снова стать просто `Sorrel Hub`.
+
+## Кто создавал разные эпохи
+
+Тут важно не путать старую и новую эпоху.
+
+Оригинальный Sorrel Hub был связан с Winner и его Roblox-игрой `Щавель обби`. В pre-NextGen эпоху Lox / `lox_228` был co-owner до конца этой эпохи, но не создателем текущего Sorrel Hub.
+
+Текущий Sorrel Hub: NextGen действительно создали Winner и Lovey0x. Lovey0x не просто "человек со скриптом", а со-владелец текущей эпохи и автор LoveyWare-направления.
 
 ## Домены
 

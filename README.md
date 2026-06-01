@@ -13,31 +13,35 @@ Public README project for Sorrel Hub history, products, branding, versions, and 
 
 ## RU
 
-Sorrel Hub - dev-экосистема, созданная Winner / Lox. Проект начался как Roblox script hub-идея, а позже вырос в набор web, backend, Luau, UI и AI-направлений.
+Sorrel Hub - dev-экосистема Winner и Lovey0x. Самый первый Sorrel Hub создавался не как script hub, а как Discord-сервер для Roblox-игры Winner `Щавель обби` и будущих плейсов.
 
 Название родилось из двух частей:
 
 - `sorrel` - щавель
-- `hub` - привычное слово из Roblox script hub-культуры
+- `hub` - место, где должны были собираться игроки, проекты и будущие плейсы
 
-Текущая эпоха называется `Sorrel Hub: NextGen`, но публичное имя постепенно ведется обратно к простому `Sorrel Hub`. `NextGen` лучше понимать как reboot/chapter, а не как отдельную компанию.
+Только в период сентября-октября 2025 Sorrel Hub начал отходить от формата игрового Discord-сервера и становиться ближе к нынешней идее: Roblox scripts, web, backend, UI, AI и отдельные tools. Текущая эпоха называется `Sorrel Hub: NextGen`, но публичное имя постепенно ведется обратно к простому `Sorrel Hub`. `NextGen` лучше понимать как reboot/chapter, а не как отдельную компанию.
 
 ## EN
 
-Sorrel Hub is a developer ecosystem created by Winner / Lox. It started as a Roblox script hub idea and later grew into web, backend, Luau, UI, and AI projects.
+Sorrel Hub is a developer ecosystem by Winner and Lovey0x. The original Sorrel Hub did not start as a script hub. It started as a Discord server for Winner's Roblox game `Щавель обби` and future places.
 
 The name came from two parts:
 
 - `sorrel` - the plant
-- `hub` - a familiar word from Roblox script hub culture
+- `hub` - a place for players, projects, and future Roblox places
 
-The current era is called `Sorrel Hub: NextGen`, but the public name is gradually moving back to `Sorrel Hub`. `NextGen` is better understood as a reboot/chapter, not a separate company.
+Only around September-October 2025 did Sorrel Hub move away from the game-server format and become closer to what it is now: Roblox scripts, web, backend, UI, AI, and separate tools. The current era is called `Sorrel Hub: NextGen`, but the public name is gradually moving back to `Sorrel Hub`. `NextGen` is better understood as a reboot/chapter, not a separate company.
 
 ## Current Status
 
 - Official founding date: `2024-12-24`
 - Old Sorrel Hub deletion date: `2025-06-01 00:00`, Yekaterinburg time
 - Current era: `Sorrel Hub: NextGen`
+- Current era creators: Winner and Lovey0x
+- Pre-NextGen co-owner: Lox / `lox_228`
+- Original purpose: Discord server for `Щавель обби` and future Roblox places
+- Current purpose: web/dev ecosystem with Roblox scripting projects and tools
 - Main domain: `sorrelhub.xyz`
 - API domain: `api.sorrelhub.xyz`
 - Sorrel AI domain: `aibot.sorrelhub.xyz`
@@ -57,8 +61,8 @@ The current era is called `Sorrel Hub: NextGen`, but the public name is graduall
 ## Ecosystem
 
 - `Sorrel Hub` - main brand and ecosystem.
-- `WinWare` - Winner's Roblox/Luau project line.
-- `LoveyWare` - lovey0x's script project.
+- `WinWare` - Roblox/Luau project line focused around HvH, Visuals, and related modules.
+- `LoveyWare` - Lovey0x's project line focused around bypass-oriented modules and related tooling.
 - `TargetWare` - project that grew from predict tp and target esp.
 - `Sorrel AI` - experimental AI bot in the Sorrel Hub ecosystem.
 - `ExploitRPC` - open-source Windows Discord Rich Presence tool for supported Roblox injector activity.

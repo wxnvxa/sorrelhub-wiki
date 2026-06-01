@@ -1,13 +1,17 @@
 # Start Here
 
-Sorrel Hub is a developer ecosystem created by Winner / Lox. It started as a Roblox script hub idea and later grew into a wider set of projects: website, backend/API, WinWare, LoveyWare, TargetWare, Sorrel AI, and separate tools.
+Sorrel Hub is a developer ecosystem by Winner and Lovey0x. The original Sorrel Hub did not start as a script hub. It started as a Discord server for Winner's Roblox game `Щавель обби` and future places.
+
+The original idea was simple: there was a Roblox game, and it needed a server, a community, a place for updates, and a base for future projects. At that point, `hub` meant a center around the game and future places, not a script hub.
+
+Only around September-October 2025 did Sorrel Hub move away from the game Discord server format and become closer to its current shape: Roblox scripts, web, backend/API, UI, AI, WinWare, LoveyWare, TargetWare, and separate tools.
 
 ## Short Version
 
 - `Sorrel Hub` - the main brand.
 - `Sorrel Hub: NextGen` - the current reboot era.
-- `WinWare` - Winner's Roblox/Luau project line.
-- `LoveyWare` - lovey0x's script project.
+- `WinWare` - Roblox/Luau project line focused on HvH, Visuals, and related modules.
+- `LoveyWare` - Lovey0x's project line focused on bypass-oriented modules and similar tooling.
 - `TargetWare` - a project that grew from predict tp and target esp.
 - `Sorrel AI` - an AI bot in the Sorrel Hub ecosystem.
 - `ExploitRPC` - an open-source Windows tool for Discord Rich Presence.
@@ -38,6 +42,14 @@ NextGen - current chapter/reboot
 ```
 
 In the future, the public name may return to just `Sorrel Hub`.
+
+## Who Created Which Era
+
+It is important not to mix the old and current eras.
+
+The original Sorrel Hub was connected to Winner and his Roblox game `Щавель обби`. In the pre-NextGen era, Lox / `lox_228` was a co-owner until the end of that era, but he was not the creator of the current Sorrel Hub.
+
+The current Sorrel Hub: NextGen was created by Winner and Lovey0x. Lovey0x is not just "the person with a script"; he is a co-owner of the current era and the owner of the LoveyWare direction.
 
 ## Domains
 

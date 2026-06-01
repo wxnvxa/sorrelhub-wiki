@@ -8,7 +8,9 @@ Some dates are approximate when marked with `~`.
 
 Official founding date of Sorrel Hub.
 
-The name came from two parts: `sorrel`, the plant, and `hub`, a familiar word from Roblox script hub culture. At the start, the project was closer to a Roblox hub idea than a full web/dev ecosystem.
+The first Sorrel Hub was created as a Discord server for Winner's Roblox game `Щавель обби` and for other future places. At this stage, it was not a script hub and not yet a web/dev ecosystem.
+
+The name came from two parts: `sorrel`, the plant, and `hub`, a place where players, updates, places, and future projects could gather. The meaning was closer to a game community server than the current Sorrel Hub.
 
 ## 2025
 
@@ -20,7 +22,7 @@ The Sorrel Hub logo changed around spring 2025. One version was made in Photosho
 
 Old Sorrel Hub was officially deleted.
 
-Before deletion, `lox_228` was co-owner of old Sorrel Hub.
+Before deletion, Lox / `lox_228` was co-owner of old Sorrel Hub. He belongs to the pre-NextGen era and is not the creator of the current Sorrel Hub: NextGen.
 
 ### Late Summer 2025
 
@@ -30,6 +32,8 @@ Sorrel Hub v2 was planned but never released. The v2 animation survived and is s
 
 Sorrel Hub was created again with an attempt to adapt it for an English-speaking audience. This can be treated as an early seed of the current NextGen era.
 
+This is the period when Sorrel Hub started moving away from being a game server around `Щавель обби` and toward its current form: Roblox scripts, web, backend/API, UI, AI, and separate tools.
+
 ### October-November 2025~
 
 Winner's Discord account, which the Sorrel Hub base depended on, received a permanent ban. The reason is unknown.
@@ -38,9 +42,9 @@ After that, the server base was closed, and the project had a reason to restart 
 
 ### Around Late November 2025
 
-Winner met `lovey0x` while testing a `predict tp` script, which later became part of TargetWare history.
+Winner met `Lovey0x` while testing a `predict tp` script, which later became part of TargetWare history.
 
-On the same day or the next day, Winner and lovey0x created a new Sorrel Hub.
+On the same day or the next day, Winner and Lovey0x created a new Sorrel Hub.
 
 First name:
 
@@ -77,7 +81,7 @@ The first Sorrel Hub website was created.
 - first focus: WinWare / WinningWare
 - development style: vibe coding
 
-On the same day, lovey0x officially published LoveyWare for `Violence District`.
+On the same day, Lovey0x officially published LoveyWare for `Violence District`.
 
 ### 2025-12-08
 
@@ -106,7 +110,7 @@ Roblox chat was blocked for users from Russia.
 
 ### 2025-12-18
 
-lovey0x announced that LoveyWare was going into an indefinite no-update break while the team tried to solve the Roblox chat block problem in Russia.
+Lovey0x announced that LoveyWare was going into an indefinite no-update break while the team tried to solve the Roblox chat block problem in Russia.
 
 Meaning of the post:
 
@@ -127,7 +131,7 @@ Official Sorrel Hub birthday. This is the anniversary of the 2024-12-24 founding
 
 ### 2026-01-01
 
-lovey0x said LoveyWare would continue updating, but would no longer work with `Violence District`. The focus would move to less popular or easier games.
+Lovey0x said LoveyWare would continue updating, but would no longer work with `Violence District`. The focus would move to less popular or easier games.
 
 On the same day, `WinWare Pre-Alpha Test` was reopened for an indefinite period.
 

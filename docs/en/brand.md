@@ -21,13 +21,15 @@ Sorrel Hub: NextGen
 The name came from two parts:
 
 - `sorrel` - the plant
-- `hub` - a word from Roblox script hub culture
+- `hub` - a place for the game, players, future places, and projects
 
 Working explanation:
 
 ```txt
-Sorrel Hub started as a Roblox script hub idea and grew into a broader dev ecosystem.
+Sorrel Hub started as a Discord server for Winner's Roblox game Щавель обби and later grew into a broader dev ecosystem.
 ```
+
+Important meaning update: original Sorrel Hub was not a script hub. It was a server around the Roblox game `Щавель обби`. The script/web/dev direction became the main direction later, around September-October 2025.
 
 ## Logos
 
@@ -60,7 +62,7 @@ Current web/API style:
 Short version:
 
 ```txt
-Sorrel Hub is a small dev ecosystem by Winner and lovey0x.
+Sorrel Hub is a small dev ecosystem by Winner and Lovey0x.
 ```
 
 Wider version:

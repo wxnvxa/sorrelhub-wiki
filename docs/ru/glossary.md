@@ -2,27 +2,27 @@
 
 ## Sorrel Hub / SH / СХ
 
-Основной бренд и экосистема проектов.
+Основной бренд и экосистема проектов. Изначально Sorrel Hub был Discord-сервером для Roblox-игры `Щавель обби` и будущих плейсов, а не script hub.
 
 ## Sorrel Hub: NextGen
 
 Текущая эпоха Sorrel Hub после перезапуска в ноябре 2025.
 
-## Winner / Lox / Alfredo Swagger
+## Winner / Alfredo Swagger
 
-Основатель Sorrel Hub, главный разработчик и владелец основной части web/Luau-направления.
+Winner / Alfredo Swagger - создатель оригинального Sorrel Hub и один из создателей текущего Sorrel Hub: NextGen.
 
-## lovey0x
+## Lovey0x
 
-Со-владелец текущего Sorrel Hub: NextGen и автор LoveyWare.
+Со-владелец текущего Sorrel Hub: NextGen и владелец LoveyWare-направления.
 
-## lox_228
+## Lox / lox_228
 
-Ранний co-owner старого Sorrel Hub до удаления проекта 2025-06-01.
+Co-owner старого Sorrel Hub в pre-NextGen эпоху до ее конца. Не создатель текущего Sorrel Hub: NextGen.
 
 ## WinWare / WW / винвар
 
-Roblox/Luau направление Winner.
+Roblox/Luau направление с фокусом на HvH, Visuals и связанные модули.
 
 ## WinWare:PVE
 
@@ -30,7 +30,7 @@ Roblox/Luau направление Winner.
 
 ## LoveyWare / LW / ловивар
 
-Скрипт lovey0x.
+Направление Lovey0x с фокусом на bypass-oriented модули и похожие вещи.
 
 ## TargetWare
 
