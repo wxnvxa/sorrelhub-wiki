@@ -6,10 +6,10 @@ Public README project for Sorrel Hub history, products, branding, versions, and 
 
 ## Quick Links
 
-| Language | Start | History | Products | Brand | Versioning | Glossary |
-| --- | --- | --- | --- | --- | --- | --- |
-| RU | [Начать](docs/ru/start-here.md) | [История](docs/ru/history.md) | [Продукты](docs/ru/products.md) | [Бренд](docs/ru/brand.md) | [Версии](docs/ru/versioning.md) | [Глоссарий](docs/ru/glossary.md) |
-| EN | [Start](docs/en/start-here.md) | [History](docs/en/history.md) | [Products](docs/en/products.md) | [Brand](docs/en/brand.md) | [Versioning](docs/en/versioning.md) | [Glossary](docs/en/glossary.md) |
+| Language | Start | History | Products | Brand | Ownership | Versioning | Glossary |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| RU | [Начать](docs/ru/start-here.md) | [История](docs/ru/history.md) | [Продукты](docs/ru/products.md) | [Бренд](docs/ru/brand.md) | [Владение](docs/ru/ownership.md) | [Версии](docs/ru/versioning.md) | [Глоссарий](docs/ru/glossary.md) |
+| EN | [Start](docs/en/start-here.md) | [History](docs/en/history.md) | [Products](docs/en/products.md) | [Brand](docs/en/brand.md) | [Ownership](docs/en/ownership.md) | [Versioning](docs/en/versioning.md) | [Glossary](docs/en/glossary.md) |
 
 ## RU
 
@@ -47,6 +47,24 @@ Only around September-October 2025 did Sorrel Hub move away from the game-server
 - Sorrel AI domain: `aibot.sorrelhub.xyz`
 - Possible future cabinet domain: `cabinet.sorrelhub.xyz`
 - Main stack direction: React / Next.js for web projects
+
+## Ownership
+
+Sorrel Hub is owned by two founders:
+
+- Winner, also known as Alfredo Swagger
+- Lovey0x, also known as Lovey0x81nary
+
+All decisions about the project, branding, infrastructure, and ecosystem are made exclusively by both owners. Sorrel Hub is not run by a public committee, a community vote, or a loose contributor group. Contributors can help, build, test, design, write, or suggest, but ownership and final direction stay with Winner and Lovey0x.
+
+## Владение
+
+Sorrel Hub принадлежит двум основателям:
+
+- Winner, также известный как Alfredo Swagger
+- Lovey0x, также известный как Lovey0x81nary
+
+Все решения по проекту, бренду, инфраструктуре и экосистеме принимаются исключительно обоими владельцами. Sorrel Hub не управляется публичным комитетом, голосованием комьюнити или свободной группой контрибьюторов. Люди могут помогать, делать код, тестировать, рисовать, писать тексты или предлагать идеи, но владение и финальное направление остаются за Winner и Lovey0x.
 
 ## Logo Timeline
 
