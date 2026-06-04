@@ -36,9 +36,9 @@ Web-слой Sorrel Hub отвечает за сайт, аккаунт, подк
 - `sorrelhub.xyz` - основной сайт
 - `api.sorrelhub.xyz` - API и loader
 - `aibot.sorrelhub.xyz` - Sorrel AI
-- `cabinet.sorrelhub.xyz` - возможный будущий кабинет
+- кабинет - часть основного сайта/dashboard-направления
 
-Кабинет пока не вынесен в отдельный subdomain.
+Кабинет пока не выносится в отдельный subdomain, и это больше не активная архитектурная цель.
 
 ## WinWare
 

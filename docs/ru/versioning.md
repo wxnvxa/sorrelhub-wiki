@@ -32,7 +32,7 @@ Generation не нужно менять ради каждого redesign. Это
 
 - новая auth-система;
 - новый loader protocol;
-- перенос cabinet на subdomain;
+- крупное изменение dashboard/auth-архитектуры;
 - отказ от старого API контракта.
 
 ## Minor

@@ -56,7 +56,7 @@ NextGen - текущий chapter/reboot
 - `sorrelhub.xyz` - основной сайт.
 - `api.sorrelhub.xyz` - API и loader-логика.
 - `aibot.sorrelhub.xyz` - Sorrel AI.
-- `cabinet.sorrelhub.xyz` - возможный будущий subdomain для кабинета.
+- Кабинет - часть основного сайта/dashboard-направления.
 - `sorrelhub.vercel.app` - ранний Vercel-адрес первой версии сайта.
 
-На момент этой wiki кабинет еще не вынесен на отдельный subdomain.
+На момент этой wiki отдельный subdomain для кабинета не является активной целью.

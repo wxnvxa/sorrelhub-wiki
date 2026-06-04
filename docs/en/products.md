@@ -36,9 +36,9 @@ Planned domain structure:
 - `sorrelhub.xyz` - main website
 - `api.sorrelhub.xyz` - API and loader
 - `aibot.sorrelhub.xyz` - Sorrel AI
-- `cabinet.sorrelhub.xyz` - possible future cabinet
+- cabinet - part of the main website/dashboard direction
 
-The cabinet is not currently split into a separate subdomain.
+The cabinet is not being split into a separate subdomain right now, and that is no longer an active architecture goal.
 
 ## WinWare
 

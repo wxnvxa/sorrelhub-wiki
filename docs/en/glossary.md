@@ -62,7 +62,7 @@ Custom loader/source-code protection.
 
 ## Cabinet
 
-Sorrel Hub user cabinet. It can currently live inside the main website. `cabinet.sorrelhub.xyz` is a possible future domain.
+Sorrel Hub user cabinet. It belongs to the main website/dashboard direction for now, with no active plan to move it to a separate subdomain.
 
 ## Vercel
 

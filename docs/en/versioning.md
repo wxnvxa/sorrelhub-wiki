@@ -32,7 +32,7 @@ Examples:
 
 - new auth system;
 - new loader protocol;
-- cabinet moving to a subdomain;
+- large dashboard/auth architecture change;
 - old API contract removal.
 
 ## Minor

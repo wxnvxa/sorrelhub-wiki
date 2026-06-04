@@ -56,7 +56,7 @@ The current Sorrel Hub: NextGen was created by Winner and Lovey0x. Lovey0x is no
 - `sorrelhub.xyz` - main website.
 - `api.sorrelhub.xyz` - API and loader logic.
 - `aibot.sorrelhub.xyz` - Sorrel AI.
-- `cabinet.sorrelhub.xyz` - possible future cabinet subdomain.
+- Cabinet - part of the main website/dashboard direction.
 - `sorrelhub.vercel.app` - early Vercel address for the first website.
 
-At the time of this wiki, the cabinet is not split into a separate subdomain.
+At the time of this wiki, a separate cabinet subdomain is not an active goal.

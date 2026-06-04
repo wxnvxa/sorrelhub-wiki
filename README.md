@@ -45,7 +45,7 @@ Only around September-October 2025 did Sorrel Hub move away from the game-server
 - Main domain: `sorrelhub.xyz`
 - API domain: `api.sorrelhub.xyz`
 - Sorrel AI domain: `aibot.sorrelhub.xyz`
-- Possible future cabinet domain: `cabinet.sorrelhub.xyz`
+- Cabinet status: part of the main website/dashboard direction, with no active separate subdomain plan
 - Main stack direction: React / Next.js for web projects
 
 ## Ownership
