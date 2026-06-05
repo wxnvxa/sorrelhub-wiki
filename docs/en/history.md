@@ -40,11 +40,11 @@ Winner's Discord account, which the Sorrel Hub base depended on, received a perm
 
 After that, the server base was closed, and the project had a reason to restart again.
 
-### Around Late November 2025
+### 2025-11-21
 
-Winner met `Lovey0x` while testing a `predict tp` script, which later became part of TargetWare history.
+Official creation date of the new collaboration and the project relaunch named `NSW x SH`.
 
-On the same day or the next day, Winner and Lovey0x created a new Sorrel Hub.
+Around the day before (November 20), Winner met `Lovey0x` while testing a `predict tp` script, which later became part of TargetWare history. They quickly hit it off and decided to join forces to create a new shared project.
 
 First name:
 
@@ -57,7 +57,7 @@ Meaning:
 - `NSW` - `NeverStopWinning`
 - `SH` - `Sorrel Hub`
 
-The project was later renamed to `Sorrel Hub: NextGen`.
+This collaboration later evolved into a full reboot, known as `Sorrel Hub: NextGen`.
 
 ### 2025-11-23
 
