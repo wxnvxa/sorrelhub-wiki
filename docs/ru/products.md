@@ -17,13 +17,13 @@
 - AI tools
 - desktop/tools experiments
 
-## Sorrel Hub: NextGen
+## Sorrel Hub после 2026-06-16
 
-Текущая эпоха после перезапуска в ноябре 2025.
+Текущий этап Sorrel Hub начинается после `2026-06-16 16:00 UTC+5`.
 
-Текущий Sorrel Hub: NextGen был создан Winner и Lovey0x. Lox / `lox_228` относится к pre-NextGen эпохе как co-owner старого Sorrel Hub до конца той эпохи.
+Winner и Lovey0x остаются владельцами и финальным направлением Sorrel Hub. Lox / `lox_228` относится к pre-NextGen эпохе как co-owner старого Sorrel Hub до конца той эпохи.
 
-`NextGen` лучше понимать как название chapter/reboot. В будущем публичное название может снова стать просто `Sorrel Hub`.
+`NextGen` лучше понимать как название предыдущего chapter/reboot. После точки перезапуска новые Discord-серверы, сайт и версии ведутся как новая линейка Sorrel Hub.
 
 ## Web Dashboard
 
@@ -35,10 +35,9 @@ Web-слой Sorrel Hub отвечает за сайт, аккаунт, подк
 
 - `sorrelhub.xyz` - основной сайт
 - `api.sorrelhub.xyz` - API и loader
-- `aibot.sorrelhub.xyz` - Sorrel AI
 - кабинет - часть основного сайта/dashboard-направления
 
-Кабинет пока не выносится в отдельный subdomain, и это больше не активная архитектурная цель.
+Кабинет пока не выносится в отдельный subdomain, и это больше не активная архитектурная цель. `aibot.sorrelhub.xyz` не документируется как активное текущее приложение.
 
 ## WinWare
 
@@ -57,7 +56,7 @@ WinWare - Roblox/Luau направление с фокусом на HvH, Visuals
 
 LoveyWare - направление Lovey0x, а не просто "один скрипт".
 
-Если WinWare описывать через HvH/Visuals, то LoveyWare лучше описывать как bypass-oriented направление и набор модулей вокруг этого подхода. Это часть текущей Sorrel Hub: NextGen истории, потому что Lovey0x является co-owner текущей эпохи, а не просто автором отдельного файла.
+Если WinWare описывать через HvH/Visuals, то LoveyWare лучше описывать как bypass-oriented направление и набор модулей вокруг этого подхода. Это часть текущей истории Sorrel Hub, потому что Lovey0x является co-owner Sorrel Hub, а не просто автором отдельного файла.
 
 Факты:
 
@@ -79,15 +78,11 @@ TargetWare вырос из `predict tp` и `target esp`.
 
 ## Sorrel AI
 
-Sorrel AI - AI-бот в экосистеме Sorrel Hub.
-
-Домен:
-
-```txt
-aibot.sorrelhub.xyz
-```
+Sorrel AI - исторический экспериментальный AI-бот в экосистеме Sorrel Hub.
 
 Первый запуск был 2025-12-14. Исторически это был AI-бот без ограничений и предупреждений, который писал любой код. Он работал недолго и иногда запускался вручную.
+
+Активного текущего приложения `aibot.sorrelhub.xyz` в этой wiki не задокументировано.
 
 ## ExploitRPC
 

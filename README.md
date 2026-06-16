@@ -20,7 +20,7 @@ Sorrel Hub - dev-экосистема Winner и Lovey0x. Самый первый
 - `sorrel` - щавель
 - `hub` - место, где должны были собираться игроки, проекты и будущие плейсы
 
-Только в период сентября-октября 2025 Sorrel Hub начал отходить от формата игрового Discord-сервера и становиться ближе к нынешней идее: Roblox scripts, web, backend, UI, AI и отдельные tools. Текущая эпоха называется `Sorrel Hub: NextGen`, но публичное имя постепенно ведется обратно к простому `Sorrel Hub`. `NextGen` лучше понимать как reboot/chapter, а не как отдельную компанию.
+Только в период сентября-октября 2025 Sorrel Hub начал отходить от формата игрового Discord-сервера и становиться ближе к нынешней идее: Roblox scripts, web, backend, UI, AI и отдельные tools. Этап `Sorrel Hub: NextGen` был reboot/chapter после `NSW x SH`, но после `2026-06-16 16:00 UTC+5` текущий публичный бренд снова ведется как простой `Sorrel Hub`.
 
 ## EN
 
@@ -31,20 +31,22 @@ The name came from two parts:
 - `sorrel` - the plant
 - `hub` - a place for players, projects, and future Roblox places
 
-Only around September-October 2025 did Sorrel Hub move away from the game-server format and become closer to what it is now: Roblox scripts, web, backend, UI, AI, and separate tools. The current era is called `Sorrel Hub: NextGen`, but the public name is gradually moving back to `Sorrel Hub`. `NextGen` is better understood as a reboot/chapter, not a separate company.
+Only around September-October 2025 did Sorrel Hub move away from the game-server format and become closer to what it is now: Roblox scripts, web, backend, UI, AI, and separate tools. `Sorrel Hub: NextGen` was a reboot/chapter after `NSW x SH`, but after `2026-06-16 16:00 UTC+5` the current public brand is again handled as plain `Sorrel Hub`.
 
 ## Current Status
 
 - Official founding date: `2024-12-24`
 - Old Sorrel Hub deletion date: `2025-06-01 00:00`, Yekaterinburg time
-- Current era: `Sorrel Hub: NextGen`
-- Current era creators: Winner and Lovey0x
+- Current era: `Sorrel Hub`, restarted after `2026-06-16 16:00 UTC+5`
+- Current era owners/final direction: Winner and Lovey0x
 - Pre-NextGen co-owner: Lox / `lox_228`
+- Previous reboot/chapter: `Sorrel Hub: NextGen`
+- Reset note: Discord servers, website, and version line restarted from `2026-06-16 16:00 UTC+5`
 - Original purpose: Discord server for `Щавель обби` and future Roblox places
 - Current purpose: web/dev ecosystem with Roblox scripting projects and tools
 - Main domain: `sorrelhub.xyz`
 - API domain: `api.sorrelhub.xyz`
-- Sorrel AI domain: `aibot.sorrelhub.xyz`
+- Sorrel AI status: historical/inactive; no active `aibot.sorrelhub.xyz` app is documented for the current stage
 - Cabinet status: part of the main website/dashboard direction, with no active separate subdomain plan
 - Main stack direction: React / Next.js for web projects
 
@@ -72,8 +74,8 @@ Sorrel Hub принадлежит двум основателям:
 | --- | --- | --- |
 | Original 2024 | <img src="assets/logo/01-original-2024.png" width="180" alt="Original Sorrel Hub logo from 2024"> | First known Sorrel Hub logo, older than one year. |
 | Spring 2025 | <img src="assets/logo/02-photoshop-spring-2025.webp" width="120" alt="Spring 2025 Sorrel Hub logo made in Photoshop"> | Logo update made around spring 2025 in Photoshop. |
-| English revival 2025 | <img src="assets/logo/03-english-revival-2025.png" width="120" alt="English revival Sorrel Hub logo from 2025"> | Early English-audience revival before the current NextGen era. |
-| NextGen current | <img src="assets/logo/04-nextgen-current.png" width="120" alt="Current Sorrel Hub NextGen logo"> | Current Sorrel Hub: NextGen logo. |
+| English revival 2025 | <img src="assets/logo/03-english-revival-2025.png" width="120" alt="English revival Sorrel Hub logo from 2025"> | Early English-audience revival before the NextGen era. |
+| NextGen previous | <img src="assets/logo/04-nextgen-current.png" width="120" alt="Previous Sorrel Hub NextGen logo"> | Logo from the previous Sorrel Hub: NextGen chapter. |
 | Unreleased v2 animation | <img src="assets/logo/v2-unreleased-animation.png" width="180" alt="Unreleased Sorrel Hub v2 animation frame"> | Visual artifact from the unreleased Sorrel Hub v2 attempt. |
 
 ## Ecosystem
@@ -82,7 +84,7 @@ Sorrel Hub принадлежит двум основателям:
 - `WinWare` - Roblox/Luau project line focused around HvH, Visuals, and related modules.
 - `LoveyWare` - Lovey0x's project line focused around bypass-oriented modules and related tooling.
 - `TargetWare` - project that grew from predict tp and target esp.
-- `Sorrel AI` - experimental AI bot in the Sorrel Hub ecosystem.
+- `Sorrel AI` - historical experimental AI bot in the Sorrel Hub ecosystem; not an active current web app.
 - `ExploitRPC` - open-source Windows Discord Rich Presence tool for supported Roblox injector activity.
 
 ## Repository Notes

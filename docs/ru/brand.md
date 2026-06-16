@@ -8,13 +8,13 @@
 Sorrel Hub
 ```
 
-Текущая эпоха:
+Текущий публичный бренд после `2026-06-16 16:00 UTC+5`:
 
 ```txt
-Sorrel Hub: NextGen
+Sorrel Hub
 ```
 
-`NextGen` не обязательно должен оставаться вечной частью названия. Это скорее marker текущей эпохи после перезапуска.
+`NextGen` - это название предыдущего reboot/chapter, а не текущее публичное позиционирование.
 
 ## Происхождение
 
@@ -38,7 +38,7 @@ Sorrel Hub started as a Discord server for Winner's Roblox game Щавель о�
 1. Самая первая версия логотипа Sorrel Hub, старше года.
 2. Весна 2025 - Photoshop-версия логотипа.
 3. Сентябрь-октябрь 2025~ - английская / early NextGen версия.
-4. Текущий Sorrel Hub: NextGen logo.
+4. Sorrel Hub: NextGen logo из предыдущего chapter.
 5. Невышедшая v2-анимация.
 
 Файлы лежат в:

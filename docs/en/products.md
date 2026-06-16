@@ -17,13 +17,13 @@ Directions:
 - AI tools
 - desktop/tools experiments
 
-## Sorrel Hub: NextGen
+## Sorrel Hub After 2026-06-16
 
-The current era after the November 2025 reboot.
+The current Sorrel Hub stage starts after `2026-06-16 16:00 UTC+5`.
 
-The current Sorrel Hub: NextGen was created by Winner and Lovey0x. Lox / `lox_228` belongs to the pre-NextGen era as co-owner of old Sorrel Hub until the end of that era.
+Winner and Lovey0x remain the owners and final direction of Sorrel Hub. Lox / `lox_228` belongs to the pre-NextGen era as co-owner of old Sorrel Hub until the end of that era.
 
-`NextGen` should be understood as a chapter/reboot name. In the future, the public name may return to just `Sorrel Hub`.
+`NextGen` should be understood as the previous chapter/reboot name. After the reset point, new Discord servers, the website, and versions are handled as a restarted Sorrel Hub line.
 
 ## Web Dashboard
 
@@ -35,10 +35,9 @@ Planned domain structure:
 
 - `sorrelhub.xyz` - main website
 - `api.sorrelhub.xyz` - API and loader
-- `aibot.sorrelhub.xyz` - Sorrel AI
 - cabinet - part of the main website/dashboard direction
 
-The cabinet is not being split into a separate subdomain right now, and that is no longer an active architecture goal.
+The cabinet is not being split into a separate subdomain right now, and that is no longer an active architecture goal. `aibot.sorrelhub.xyz` is not documented as an active current app.
 
 ## WinWare
 
@@ -57,7 +56,7 @@ Known stages:
 
 LoveyWare is Lovey0x's direction, not just "one script".
 
-If WinWare is described through HvH/Visuals, LoveyWare is better described as a bypass-oriented direction and a set of modules around that approach. This is part of the current Sorrel Hub: NextGen story because Lovey0x is a co-owner of the current era, not just the author of a separate file.
+If WinWare is described through HvH/Visuals, LoveyWare is better described as a bypass-oriented direction and a set of modules around that approach. This is part of the current Sorrel Hub story because Lovey0x is a co-owner of Sorrel Hub, not just the author of a separate file.
 
 Facts:
 
@@ -79,15 +78,11 @@ Facts:
 
 ## Sorrel AI
 
-Sorrel AI is an AI bot in the Sorrel Hub ecosystem.
-
-Domain:
-
-```txt
-aibot.sorrelhub.xyz
-```
+Sorrel AI is a historical experimental AI bot in the Sorrel Hub ecosystem.
 
 The first launch was on 2025-12-14. Historically, it was an AI bot without restrictions or warnings that wrote any code. It did not run for long and was sometimes started manually.
+
+There is no active current `aibot.sorrelhub.xyz` app documented in this wiki.
 
 ## ExploitRPC
 

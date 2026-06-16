@@ -22,7 +22,7 @@ The Sorrel Hub logo changed around spring 2025. One version was made in Photosho
 
 Old Sorrel Hub was officially deleted.
 
-Before deletion, Lox / `lox_228` was co-owner of old Sorrel Hub. He belongs to the pre-NextGen era and is not the creator of the current Sorrel Hub: NextGen.
+Before deletion, Lox / `lox_228` was co-owner of old Sorrel Hub. He belongs to the pre-NextGen era and is not the creator of the current Sorrel Hub.
 
 ### Late Summer 2025
 
@@ -30,7 +30,7 @@ Sorrel Hub v2 was planned but never released. The v2 animation survived and is s
 
 ### September-October 2025~
 
-Sorrel Hub was created again with an attempt to adapt it for an English-speaking audience. This can be treated as an early seed of the current NextGen era.
+Sorrel Hub was created again with an attempt to adapt it for an English-speaking audience. This can be treated as an early seed of the later NextGen era.
 
 This is the period when Sorrel Hub started moving away from being a game server around `Щавель обби` and toward its current form: Roblox scripts, web, backend/API, UI, AI, and separate tools.
 
@@ -164,3 +164,9 @@ Before that, it existed as `predict tp` and `target esp`.
 ### 2026-06-01
 
 A traditional Sorrel Hub deletion event was held: a new Russian server was created to be deleted as part of the tradition.
+
+### 2026-06-16 16:00 UTC+5
+
+Sorrel Hub stopped using `NextGen` as its current public positioning. From this point forward, the public brand is plain `Sorrel Hub`.
+
+New Discord servers, the website, and versions are treated as restarted from this point. Older NextGen context, servers, site versions, and version numbers remain part of history and should not be mixed into the new Sorrel Hub version line.

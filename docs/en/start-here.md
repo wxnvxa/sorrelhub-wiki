@@ -9,11 +9,11 @@ Only around September-October 2025 did Sorrel Hub move away from the game Discor
 ## Short Version
 
 - `Sorrel Hub` - the main brand.
-- `Sorrel Hub: NextGen` - the current reboot era.
+- `Sorrel Hub: NextGen` - the previous reboot era after `NSW x SH`.
 - `WinWare` - Roblox/Luau project line focused on HvH, Visuals, and related modules.
 - `LoveyWare` - Lovey0x's project line focused on bypass-oriented modules and similar tooling.
 - `TargetWare` - a project that grew from predict tp and target esp.
-- `Sorrel AI` - an AI bot in the Sorrel Hub ecosystem.
+- `Sorrel AI` - a historical experimental AI bot in the Sorrel Hub ecosystem, not an active current web app.
 - `ExploitRPC` - an open-source Windows tool for Discord Rich Presence.
 
 ## Why The History Has Several Reboots
@@ -28,20 +28,20 @@ Main eras:
 4. English-audience revival attempt.
 5. `NSW x SH`.
 6. `Sorrel Hub: NextGen`.
-7. Current shift toward a clearer web/dev ecosystem.
+7. Sorrel Hub after `2026-06-16 16:00 UTC+5`, with Discord servers, website, and versions restarted.
 
 ## What NextGen Means
 
-`NextGen` is the name of the current era. It does not have to stay in the brand forever.
+`NextGen` was the name of the previous reboot era. It is not the current public brand after `2026-06-16 16:00 UTC+5`.
 
 Read it like this:
 
 ```txt
 Sorrel Hub - main brand
-NextGen - current chapter/reboot
+NextGen - previous chapter/reboot
 ```
 
-In the future, the public name may return to just `Sorrel Hub`.
+The current public name is just `Sorrel Hub`.
 
 ## Who Created Which Era
 
@@ -49,14 +49,17 @@ It is important not to mix the old and current eras.
 
 The original Sorrel Hub was connected to Winner and his Roblox game `Щавель обби`. In the pre-NextGen era, Lox / `lox_228` was a co-owner until the end of that era, but he was not the creator of the current Sorrel Hub.
 
-The current Sorrel Hub: NextGen was created by Winner and Lovey0x. Lovey0x is not just "the person with a script"; he is a co-owner of the current era and the owner of the LoveyWare direction.
+The current Sorrel Hub is directed by Winner and Lovey0x. Lovey0x is not just "the person with a script"; he is a co-owner of the current Sorrel Hub and the owner of the LoveyWare direction.
+
+## Current Reset Point
+
+After `2026-06-16 16:00 UTC+5`, Sorrel Hub is no longer positioned as `NextGen`. New Discord servers, the website, and versions are treated as restarted from that point. Older NextGen versions and public context belong to the previous chapter and should not be mixed into the new version line.
 
 ## Domains
 
 - `sorrelhub.xyz` - main website.
 - `api.sorrelhub.xyz` - API and loader logic.
-- `aibot.sorrelhub.xyz` - Sorrel AI.
 - Cabinet - part of the main website/dashboard direction.
 - `sorrelhub.vercel.app` - early Vercel address for the first website.
 
-At the time of this wiki, a separate cabinet subdomain is not an active goal.
+At the time of this wiki, a separate cabinet subdomain is not an active goal. `aibot.sorrelhub.xyz` is also not documented as an active current app.

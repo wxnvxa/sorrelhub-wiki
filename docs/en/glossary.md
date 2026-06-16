@@ -6,19 +6,19 @@ Main brand and project ecosystem. Original Sorrel Hub was a Discord server for t
 
 ## Sorrel Hub: NextGen
 
-Current Sorrel Hub era after the November 2025 reboot.
+Previous Sorrel Hub reboot era after `NSW x SH`. It is historical context after `2026-06-16 16:00 UTC+5`.
 
 ## Winner / Alfredo Swagger
 
-Winner / Alfredo Swagger - creator of original Sorrel Hub and one of the creators of the current Sorrel Hub: NextGen.
+Winner / Alfredo Swagger - creator of original Sorrel Hub and one of the owners of the current Sorrel Hub.
 
 ## Lovey0x
 
-Co-owner of the current Sorrel Hub: NextGen and owner of the LoveyWare direction.
+Co-owner of the current Sorrel Hub and owner of the LoveyWare direction.
 
 ## Lox / lox_228
 
-Co-owner of old Sorrel Hub during the pre-NextGen era until the end of that era. Not the creator of the current Sorrel Hub: NextGen.
+Co-owner of old Sorrel Hub during the pre-NextGen era until the end of that era. Not the creator of the current Sorrel Hub.
 
 ## WinWare / WW
 
@@ -38,7 +38,7 @@ A project that grew from `predict tp` and `target esp`.
 
 ## Sorrel AI
 
-Sorrel Hub AI bot.
+Historical Sorrel Hub AI bot. It is not documented as an active current web app.
 
 ## NSW
 
@@ -46,7 +46,7 @@ Sorrel Hub AI bot.
 
 ## NSW x SH
 
-Early project name before the rename to `Sorrel Hub: NextGen`.
+Early project name before the rename to `Sorrel Hub: NextGen`, now historical context.
 
 ## Loader
 

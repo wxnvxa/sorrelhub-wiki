@@ -8,13 +8,13 @@ Main brand:
 Sorrel Hub
 ```
 
-Current era:
+Current public brand after `2026-06-16 16:00 UTC+5`:
 
 ```txt
-Sorrel Hub: NextGen
+Sorrel Hub
 ```
 
-`NextGen` does not have to stay in the name forever. It is closer to a marker for the current post-reboot era.
+`NextGen` is a previous reboot/chapter name, not the current public positioning.
 
 ## Origin
 
@@ -38,7 +38,7 @@ Known stages:
 1. The first known Sorrel Hub logo, older than one year.
 2. Spring 2025 - Photoshop logo version.
 3. September-October 2025~ - English / early NextGen version.
-4. Current Sorrel Hub: NextGen logo.
+4. Sorrel Hub: NextGen logo from the previous chapter.
 5. Unreleased v2 animation.
 
 Files are stored in:

@@ -6,19 +6,19 @@
 
 ## Sorrel Hub: NextGen
 
-Текущая эпоха Sorrel Hub после перезапуска в ноябре 2025.
+Предыдущая эпоха перезапуска Sorrel Hub после `NSW x SH`. После `2026-06-16 16:00 UTC+5` это исторический контекст.
 
 ## Winner / Alfredo Swagger
 
-Winner / Alfredo Swagger - создатель оригинального Sorrel Hub и один из создателей текущего Sorrel Hub: NextGen.
+Winner / Alfredo Swagger - создатель оригинального Sorrel Hub и один из владельцев текущего Sorrel Hub.
 
 ## Lovey0x
 
-Со-владелец текущего Sorrel Hub: NextGen и владелец LoveyWare-направления.
+Со-владелец текущего Sorrel Hub и владелец LoveyWare-направления.
 
 ## Lox / lox_228
 
-Co-owner старого Sorrel Hub в pre-NextGen эпоху до ее конца. Не создатель текущего Sorrel Hub: NextGen.
+Co-owner старого Sorrel Hub в pre-NextGen эпоху до ее конца. Не создатель текущего Sorrel Hub.
 
 ## WinWare / WW / винвар
 
@@ -38,7 +38,7 @@ Roblox/Luau направление с фокусом на HvH, Visuals и свя
 
 ## Sorrel AI
 
-AI-бот Sorrel Hub.
+Исторический AI-бот Sorrel Hub. Не документируется как активное текущее web-приложение.
 
 ## NSW
 
@@ -46,7 +46,7 @@ AI-бот Sorrel Hub.
 
 ## NSW x SH
 
-Раннее название проекта до переименования в `Sorrel Hub: NextGen`.
+Раннее название проекта до переименования в `Sorrel Hub: NextGen`, теперь исторический контекст.
 
 ## Loader
 
