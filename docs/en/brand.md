@@ -33,19 +33,30 @@ Important meaning update: original Sorrel Hub was not a script hub. It was a ser
 
 ## Logos
 
-Known stages:
+The visual history of Sorrel Hub from its origins to current minimalism.
 
-1. The first known Sorrel Hub logo, older than one year.
-2. Spring 2025 - Photoshop logo version.
-3. September-October 2025~ - English / early NextGen version.
-4. Sorrel Hub: NextGen logo from the previous chapter.
-5. Unreleased v2 animation.
+### Chronology & Versions
 
-Files are stored in:
-
-```txt
-assets/logo/
-```
+1. **The first known logo (2024)** — older than one year, the project's origins.
+   ![Original 2024 Logo](../../assets/logo/01-original-2024.png)
+2. **Photoshop version (Spring 2025)** — intermediate variant.
+   ![Photoshop Spring 2025](../../assets/logo/02-photoshop-spring-2025.webp)
+3. **English Revival / Early NextGen (September-October 2025)** — early NextGen concept.
+   ![English Revival](../../assets/logo/03-english-revival-2025.png)
+4. **First NextGen Logo** — early iteration of the NextGen era featuring a gradient circle and lyrics in the background.
+   ![Early NextGen Logo](../../assets/logo/nextgen-v1-early.png)
+5. **Early NextGen Icon** — early icon preceding the final star icon.
+   ![Early NextGen Icon](../../assets/logo/nextgen-icon-early.png)
+6. **NextGen Logo** — clean flat NextGen version on a dark starry background.
+   ![NextGen Logo](../../assets/logo/nextgen-clean.png)
+7. **First Version of the Current Logo** — flat minimalist design with a green badge.
+   ![Current Logo v1](../../assets/logo/current-v1.png)
+8. **Second Version of the Current Logo** — variant of the current logo with the signature starry pattern in the background.
+   ![Current Logo v2](../../assets/logo/current-v2.png)
+9. **Current Icon (End of NextGen / Present)** — minimalist four-pointed star (used for Discord, website icon, and favicon).
+   ![Current Icon](../../assets/logo/current-icon.png)
+10. **Unreleased v2 Animation** — concept animation of the logo.
+    ![Unreleased v2 Animation](../../assets/logo/v2-unreleased-animation.png)
 
 ## Style
 

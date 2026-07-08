@@ -33,19 +33,30 @@ Sorrel Hub started as a Discord server for Winner's Roblox game Щавель о�
 
 ## Логотипы
 
-Известные этапы:
+Вся история визуального стиля Sorrel Hub от истоков до текущего минимализма.
 
-1. Самая первая версия логотипа Sorrel Hub, старше года.
-2. Весна 2025 - Photoshop-версия логотипа.
-3. Сентябрь-октябрь 2025~ - английская / early NextGen версия.
-4. Sorrel Hub: NextGen logo из предыдущего chapter.
-5. Невышедшая v2-анимация.
+### Хронология и версии
 
-Файлы лежат в:
-
-```txt
-assets/logo/
-```
+1. **Самая первая версия логотипа (2024)** — старше года, истоки проекта.
+   ![Original 2024 Logo](../../assets/logo/01-original-2024.png)
+2. **Photoshop-версия (Весна 2025)** — промежуточный вариант.
+   ![Photoshop Spring 2025](../../assets/logo/02-photoshop-spring-2025.webp)
+3. **English Revival / Early NextGen (Сентябрь-октябрь 2025)** — ранняя NextGen концепция.
+   ![English Revival](../../assets/logo/03-english-revival-2025.png)
+4. **Самое первое лого NextGen** — ранняя итерация NextGen эры с градиентным кругом и текстом песни Yeat на фоне.
+   ![Early NextGen Logo](../../assets/logo/nextgen-v1-early.png)
+5. **Первая иконка NextGen** — ранняя иконка, предшествовавшая финальной звезде.
+   ![Early NextGen Icon](../../assets/logo/nextgen-icon-early.png)
+6. **Логотип NextGen** — чистая плоская версия NextGen на темном фоне со звездочками.
+   ![NextGen Logo](../../assets/logo/nextgen-clean.png)
+7. **Первая версия нынешнего логотипа** — плоский минималистичный дизайн с зеленой плашкой.
+   ![Current Logo v1](../../assets/logo/current-v1.png)
+8. **Вторая версия нынешнего логотипа** — вариант текущего логотипа с фирменным паттерном со звездами на фоне.
+   ![Current Logo v2](../../assets/logo/current-v2.png)
+9. **Текущая иконка (Конец NextGen / Настоящее время)** — минималистичная четырехконечная звезда (используется для Discord, иконки сайта и favicon).
+   ![Current Icon](../../assets/logo/current-icon.png)
+10. **Невыпущенная v2-анимация** — концепт-анимация логотипа.
+    ![Unreleased v2 Animation](../../assets/logo/v2-unreleased-animation.png)
 
 ## Стиль
 
