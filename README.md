@@ -72,11 +72,18 @@ Sorrel Hub принадлежит двум основателям:
 
 | Era | Preview | Notes |
 | --- | --- | --- |
-| Original 2024 | <img src="assets/logo/01-original-2024.png" width="180" alt="Original Sorrel Hub logo from 2024"> | First known Sorrel Hub logo, older than one year. |
-| Spring 2025 | <img src="assets/logo/02-photoshop-spring-2025.webp" width="120" alt="Spring 2025 Sorrel Hub logo made in Photoshop"> | Logo update made around spring 2025 in Photoshop. |
-| English revival 2025 | <img src="assets/logo/03-english-revival-2025.png" width="120" alt="English revival Sorrel Hub logo from 2025"> | Early English-audience revival before the NextGen era. |
-| NextGen previous | <img src="assets/logo/04-nextgen-current.png" width="120" alt="Previous Sorrel Hub NextGen logo"> | Logo from the previous Sorrel Hub: NextGen chapter. |
-| Unreleased v2 animation | <img src="assets/logo/v2-unreleased-animation.png" width="180" alt="Unreleased Sorrel Hub v2 animation frame"> | Visual artifact from the unreleased Sorrel Hub v2 attempt. |
+| Original 2024 | <img src="assets/logo/01-original-2024.png" width="120" alt="Original logo"> | First known Sorrel Hub logo, older than one year. |
+| Spring 2025 | <img src="assets/logo/02-photoshop-spring-2025.webp" width="120" alt="Spring 2025 logo"> | Logo update made around spring 2025 in Photoshop. |
+| English revival 2025 | <img src="assets/logo/03-english-revival-2025.png" width="120" alt="English revival logo"> | Early English-audience revival before the NextGen era. |
+| Early NextGen | <img src="assets/logo/nextgen-v1-early.png" width="120" alt="Early NextGen logo"> | Earliest NextGen logo iteration with gradient background. |
+| Early NextGen Icon | <img src="assets/logo/nextgen-icon-early.png" width="120" alt="Early NextGen icon"> | First icon design preceding the final star. |
+| NextGen | <img src="assets/logo/nextgen-clean.png" width="120" alt="NextGen logo"> | NextGen logo from the previous chapter. |
+| Current v1 | <img src="assets/logo/current-v1.png" width="120" alt="Current v1 logo"> | First iteration of the current minimalist logo. |
+| Current v2 | <img src="assets/logo/current-v2.png" width="120" alt="Current v2 logo"> | Current minimalist logo with starry pattern background. |
+| Current Icon | <img src="assets/logo/current-icon.png" width="120" alt="Current icon"> | Current small icon for Discord, website, and favicons. |
+| Current 3D (Static) | <img src="assets/logo/current-logo-3d.png" width="120" alt="3D static logo"> | 3D render of the current star logo with green tint. |
+| Current 3D (Animated) | <img src="assets/logo/current-logo-3d-animated.gif" width="120" alt="3D animated logo"> | Animated sparkle GIF version of the 3D star logo. |
+| Unreleased v2 animation | <img src="assets/logo/v2-unreleased-animation.png" width="120" alt="Unreleased v2 logo"> | Visual artifact from the unreleased Sorrel Hub v2 attempt. |
 
 ## Ecosystem
 
