@@ -55,7 +55,11 @@ Sorrel Hub started as a Discord server for Winner's Roblox game Щавель о�
    ![Current Logo v2](../../assets/logo/current-v2.png)
 9. **Текущая иконка (Конец NextGen / Настоящее время)** — минималистичная четырехконечная звезда (используется для Discord, иконки сайта и favicon).
    ![Current Icon](../../assets/logo/current-icon.png)
-10. **Невыпущенная v2-анимация** — концепт-анимация логотипа.
+10. **Текущее 3D-логотип (статичное)** — 3D-версия четырехконечной звезды зеленого оттенка с глянцевым покрытием и частицами на фоне.
+    ![Current 3D Logo](../../assets/logo/current-logo-3d.png)
+11. **Текущее 3D-логотип (анимированное)** — анимированная GIF-версия (`sparkle.gif`) вращающейся 3D-звезды с мерцанием и блеском.
+    ![Current 3D Logo Animated](../../assets/logo/current-logo-3d-animated.gif)
+12. **Невыпущенная v2-анимация** — концепт-анимация логотипа.
     ![Unreleased v2 Animation](../../assets/logo/v2-unreleased-animation.png)
 
 ## Стиль

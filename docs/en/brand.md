@@ -55,7 +55,11 @@ The visual history of Sorrel Hub from its origins to current minimalism.
    ![Current Logo v2](../../assets/logo/current-v2.png)
 9. **Current Icon (End of NextGen / Present)** — minimalist four-pointed star (used for Discord, website icon, and favicon).
    ![Current Icon](../../assets/logo/current-icon.png)
-10. **Unreleased v2 Animation** — concept animation of the logo.
+10. **Current 3D Logo (static)** — 3D version of the four-pointed star in a green hue with a glossy finish and background particles.
+    ![Current 3D Logo](../../assets/logo/current-logo-3d.png)
+11. **Current 3D Logo (animated)** — animated GIF version (`sparkle.gif`) of the spinning 3D star with a sparkling effect.
+    ![Current 3D Logo Animated](../../assets/logo/current-logo-3d-animated.gif)
+12. **Unreleased v2 Animation** — concept animation of the logo.
     ![Unreleased v2 Animation](../../assets/logo/v2-unreleased-animation.png)
 
 ## Style
