@@ -6,7 +6,7 @@ Main brand and project ecosystem. Original Sorrel Hub was a Discord server for t
 
 ## Sorrel Hub: NextGen
 
-Previous Sorrel Hub reboot era after `NSW x SH`. It is historical context after `2026-06-16 16:00 UTC+5`.
+Previous Sorrel Hub reboot era. It is historical context after `2026-06-16 16:00 UTC+5`.
 
 ## Winner / Alfredo Swagger
 
@@ -42,7 +42,7 @@ A project that grew from `predict tp` and `target esp`.
 
 ## NSW x SH
 
-Early project name before the rename to `Sorrel Hub: NextGen`, now historical context.
+Brief transition name before `Sorrel Hub: NextGen`.
 
 ## Loader
 

@@ -20,7 +20,7 @@ Sorrel Hub - dev-экосистема Winner и Lovey0x. Самый первый
 - `sorrel` - щавель
 - `hub` - место, где должны были собираться игроки, проекты и будущие плейсы
 
-Только в период сентября-октября 2025 Sorrel Hub начал отходить от формата игрового Discord-сервера и становиться ближе к нынешней идее: Roblox scripts, web, backend, UI, AI и отдельные tools. Этап `Sorrel Hub: NextGen` был reboot/chapter после `NSW x SH`, но после `2026-06-16 16:00 UTC+5` текущий публичный бренд снова ведется как простой `Sorrel Hub`.
+Только в период сентября-октября 2025 Sorrel Hub начал отходить от формата игрового Discord-сервера и становиться ближе к нынешней идее: Roblox scripts, web, backend, UI, AI и отдельные tools. `Sorrel Hub: NextGen` был предыдущей эпохой перезапуска, а после `2026-06-16 16:00 UTC+5` текущий публичный бренд снова ведется как простой `Sorrel Hub`.
 
 ## EN
 
@@ -31,7 +31,7 @@ The name came from two parts:
 - `sorrel` - the plant
 - `hub` - a place for players, projects, and future Roblox places
 
-Only around September-October 2025 did Sorrel Hub move away from the game-server format and become closer to what it is now: Roblox scripts, web, backend, UI, AI, and separate tools. `Sorrel Hub: NextGen` was a reboot/chapter after `NSW x SH`, but after `2026-06-16 16:00 UTC+5` the current public brand is again handled as plain `Sorrel Hub`.
+Only around September-October 2025 did Sorrel Hub move away from the game-server format and become closer to what it is now: Roblox scripts, web, backend, UI, AI, and separate tools. `Sorrel Hub: NextGen` was the previous reboot era, and after `2026-06-16 16:00 UTC+5` the current public brand is again handled as plain `Sorrel Hub`.
 
 ## Current Status
 

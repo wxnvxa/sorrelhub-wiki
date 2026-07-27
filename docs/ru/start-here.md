@@ -9,7 +9,7 @@ Sorrel Hub - dev-экосистема Winner и Lovey0x. Самый первый
 ## Самое короткое объяснение
 
 - `Sorrel Hub` - главный бренд.
-- `Sorrel Hub: NextGen` - предыдущая эпоха перезапуска после `NSW x SH`.
+- `Sorrel Hub: NextGen` - предыдущая эпоха перезапуска.
 - `WinWare` - Roblox/Luau направление с фокусом на HvH, Visuals и связанные модули.
 - `LoveyWare` - направление Lovey0x с фокусом на bypass-oriented модули и похожие вещи.
 - `TargetWare` - проект, выросший из predict tp и target esp, partially discontinued.
@@ -25,9 +25,8 @@ Sorrel Hub не появился сразу как готовый коммерч
 1. Первая идея и старый Sorrel Hub.
 2. Официальное удаление старого Sorrel Hub.
 3. Попытка revival под английскую аудиторию.
-4. `NSW x SH`.
-5. `Sorrel Hub: NextGen`.
-6. Sorrel Hub после `2026-06-16 16:00 UTC+5`, с перезапущенными Discord-серверами, сайтом и версиями.
+4. `Sorrel Hub: NextGen`.
+5. Sorrel Hub после `2026-06-16 16:00 UTC+5`, с перезапущенными Discord-серверами, сайтом и версиями.
 
 ## Что значит NextGen
 

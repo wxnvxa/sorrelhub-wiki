@@ -9,7 +9,7 @@ Only around September-October 2025 did Sorrel Hub move away from the game Discor
 ## Short Version
 
 - `Sorrel Hub` - the main brand.
-- `Sorrel Hub: NextGen` - the previous reboot era after `NSW x SH`.
+- `Sorrel Hub: NextGen` - the previous reboot era.
 - `WinWare` - Roblox/Luau project line focused on HvH, Visuals, and related modules.
 - `LoveyWare` - Lovey0x's project line focused on bypass-oriented modules and similar tooling.
 - `TargetWare` - a project that grew from predict tp and target esp, partially discontinued.
@@ -25,9 +25,8 @@ Main eras:
 1. The first idea and old Sorrel Hub.
 2. Official deletion of old Sorrel Hub.
 3. English-audience revival attempt.
-4. `NSW x SH`.
-5. `Sorrel Hub: NextGen`.
-6. Sorrel Hub after `2026-06-16 16:00 UTC+5`, with Discord servers, website, and versions restarted.
+4. `Sorrel Hub: NextGen`.
+5. Sorrel Hub after `2026-06-16 16:00 UTC+5`, with Discord servers, website, and versions restarted.
 
 ## What NextGen Means
 

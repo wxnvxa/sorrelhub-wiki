@@ -34,22 +34,9 @@ After that, the server base was closed, and the project had a reason to restart 
 
 ### 2025-11-21
 
-Official project relaunch date under the name `NSW x SH`.
+Start of the `Sorrel Hub: NextGen` reboot era.
 
-Around the day before (November 20), Winner met `Lovey0x` while testing a `predict tp` script, which later became part of TargetWare history. They quickly hit it off and decided to join forces to create a new shared project.
-
-First name:
-
-```txt
-NSW x SH
-```
-
-Meaning:
-
-- `NSW` - `NeverStopWinning`
-- `SH` - `Sorrel Hub`
-
-The project was later renamed to `Sorrel Hub: NextGen`.
+`NSW x SH` was only a brief transition name before NextGen.
 
 ### 2025-11-23
 
