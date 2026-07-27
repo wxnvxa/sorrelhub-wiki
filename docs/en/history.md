@@ -30,7 +30,7 @@ Sorrel Hub was created again with an attempt to adapt it for an English-speaking
 
 This is the period when Sorrel Hub started moving away from being a game server around `Щавель обби` and toward its current form: Roblox scripts, web, backend/API, UI, AI, and separate tools.
 
-### October-November 2025~
+### 2025-11-11
 
 Winner's Discord account, which the Sorrel Hub base depended on, received a permanent ban.
 
