@@ -1,3 +1,7 @@
+---
+title: Products
+---
+
 # Products
 
 ## Sorrel Hub

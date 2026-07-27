@@ -1,3 +1,7 @@
+---
+title: Ownership
+---
+
 # Ownership
 
 Sorrel Hub is owned by two founders:

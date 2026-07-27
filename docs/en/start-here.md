@@ -1,3 +1,7 @@
+---
+title: Start Here
+---
+
 # Start Here
 
 Sorrel Hub is a developer ecosystem by Winner and Lovey0x. The original Sorrel Hub did not start as a script hub. It started as a Discord server for Winner's Roblox game `Щавель обби` and future places.

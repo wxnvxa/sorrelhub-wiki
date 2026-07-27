@@ -1,3 +1,7 @@
+---
+title: Glossary
+---
+
 # Glossary
 
 ## Sorrel Hub / SH

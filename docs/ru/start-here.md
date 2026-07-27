@@ -1,3 +1,7 @@
+---
+title: Начать здесь
+---
+
 # Начать здесь
 
 Sorrel Hub - dev-экосистема Winner и Lovey0x. Самый первый Sorrel Hub появился не как script hub, а как Discord-сервер для Roblox-игры Winner `Щавель обби` и будущих плейсов.

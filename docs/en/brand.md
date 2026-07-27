@@ -1,3 +1,7 @@
+---
+title: Brand
+---
+
 # Brand
 
 ## Name

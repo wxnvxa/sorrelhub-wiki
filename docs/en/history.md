@@ -1,3 +1,7 @@
+---
+title: History
+---
+
 # History
 
 Some dates are approximate when marked with `~`.
