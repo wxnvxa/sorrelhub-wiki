@@ -12,9 +12,9 @@ Only around September-October 2025 did Sorrel Hub move away from the game Discor
 - `Sorrel Hub: NextGen` - the previous reboot era after `NSW x SH`.
 - `WinWare` - Roblox/Luau project line focused on HvH, Visuals, and related modules.
 - `LoveyWare` - Lovey0x's project line focused on bypass-oriented modules and similar tooling.
-- `TargetWare` - a project that grew from predict tp and target esp.
-- `Sorrel AI` - a historical experimental AI bot in the Sorrel Hub ecosystem, not an active current web app.
-- `ExploitRPC` - an open-source Windows tool for Discord Rich Presence.
+- `TargetWare` - a project that grew from predict tp and target esp, partially discontinued.
+- `Forum` - discontinued.
+- `ExploitRPC` - discontinued.
 
 ## Why The History Has Several Reboots
 
@@ -24,11 +24,10 @@ Main eras:
 
 1. The first idea and old Sorrel Hub.
 2. Official deletion of old Sorrel Hub.
-3. Unreleased Sorrel Hub v2.
-4. English-audience revival attempt.
-5. `NSW x SH`.
-6. `Sorrel Hub: NextGen`.
-7. Sorrel Hub after `2026-06-16 16:00 UTC+5`, with Discord servers, website, and versions restarted.
+3. English-audience revival attempt.
+4. `NSW x SH`.
+5. `Sorrel Hub: NextGen`.
+6. Sorrel Hub after `2026-06-16 16:00 UTC+5`, with Discord servers, website, and versions restarted.
 
 ## What NextGen Means
 
@@ -54,12 +53,3 @@ The current Sorrel Hub is directed by Winner and Lovey0x. Lovey0x is not just "t
 ## Current Reset Point
 
 After `2026-06-16 16:00 UTC+5`, Sorrel Hub is no longer positioned as `NextGen`. New Discord servers, the website, and versions are treated as restarted from that point. Older NextGen versions and public context belong to the previous chapter and should not be mixed into the new version line.
-
-## Domains
-
-- `sorrelhub.xyz` - main website.
-- `api.sorrelhub.xyz` - API and loader logic.
-- Cabinet - part of the main website/dashboard direction.
-- `sorrelhub.vercel.app` - early Vercel address for the first website.
-
-At the time of this wiki, a separate cabinet subdomain is not an active goal. `aibot.sorrelhub.xyz` is also not documented as an active current app.

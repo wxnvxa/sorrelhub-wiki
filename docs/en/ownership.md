@@ -32,7 +32,5 @@ The same ownership model applies across the Sorrel Hub ecosystem:
 - Sorrel Hub branding
 - domain and infrastructure direction
 - WinWare, LoveyWare, TargetWare, and related project positioning
-- historical Sorrel AI positioning
-- future dashboard and cabinet direction
 
 The exact product scope can change over time, but the ownership model stays the same: Sorrel Hub is directed by Winner and Lovey0x.

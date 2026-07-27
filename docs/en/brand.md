@@ -51,26 +51,12 @@ The visual history of Sorrel Hub from its origins to current minimalism.
    ![NextGen Logo](../../assets/logo/nextgen-clean.png)
 7. **First Version of the Current Logo** — flat minimalist design with a green badge.
    ![Current Logo v1](../../assets/logo/current-v1.png)
-8. **Second Version of the Current Logo** — variant of the current logo with the signature starry pattern in the background.
-   ![Current Logo v2](../../assets/logo/current-v2.png)
-9. **Current Icon (End of NextGen / Present)** — minimalist four-pointed star (used for Discord, website icon, and favicon).
+8. **Current Icon (End of NextGen / Present)** — minimalist four-pointed star (used for Discord, website icon, and favicon).
    ![Current Icon](../../assets/logo/current-icon.png)
-10. **Current 3D Logo (static)** — 3D version of the four-pointed star in a green hue with a glossy finish and background particles.
+9. **Current 3D Logo (static)** — 3D version of the four-pointed star in a green hue with a glossy finish and background particles.
     ![Current 3D Logo](../../assets/logo/current-logo-3d.png)
-11. **Current 3D Logo (animated)** — animated GIF version (`sparkle.gif`) of the spinning 3D star with a sparkling effect.
+10. **Current 3D Logo (animated)** — animated GIF version (`sparkle.gif`) of the spinning 3D star with a sparkling effect.
     ![Current 3D Logo Animated](../../assets/logo/current-logo-3d-animated.gif)
-12. **Unreleased v2 Animation** — concept animation of the logo.
-    ![Unreleased v2 Animation](../../assets/logo/v2-unreleased-animation.png)
-
-## Style
-
-Current web/API style:
-
-- black and white palette;
-- `JetBrains Mono Medium`;
-- clean minimalism;
-- less unnecessary decoration;
-- backend/API screens should look like technical endpoints, not landing pages.
 
 ## Positioning
 

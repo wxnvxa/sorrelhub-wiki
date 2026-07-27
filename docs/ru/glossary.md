@@ -36,10 +36,6 @@ Roblox/Luau направление с фокусом на HvH, Visuals и свя
 
 Проект, выросший из `predict tp` и `target esp`.
 
-## Sorrel AI
-
-Исторический AI-бот Sorrel Hub. Не документируется как активное текущее web-приложение.
-
 ## NSW
 
 `NeverStopWinning`.
@@ -52,26 +48,6 @@ Roblox/Luau направление с фокусом на HvH, Visuals и свя
 
 Backend-механизм, который отдает нужный script code клиенту.
 
-## Sub ID
-
-Идентификатор подписки или доступа, который используется loader-логикой.
-
 ## SHProtect
 
 Кастомная защита loader/source-кода.
-
-## Cabinet
-
-Личный кабинет Sorrel Hub. Сейчас относится к основному сайту/dashboard-направлению, без активного плана выносить его на отдельный subdomain.
-
-## Vercel
-
-Платформа для frontend / Next.js проектов.
-
-## Railway
-
-Платформа для backend/API.
-
-## Turnstile
-
-Cloudflare Turnstile, антибот-защита на login/register.

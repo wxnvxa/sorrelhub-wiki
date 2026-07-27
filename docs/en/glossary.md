@@ -36,10 +36,6 @@ Lovey0x's direction focused on bypass-oriented modules and similar tooling.
 
 A project that grew from `predict tp` and `target esp`.
 
-## Sorrel AI
-
-Historical Sorrel Hub AI bot. It is not documented as an active current web app.
-
 ## NSW
 
 `NeverStopWinning`.
@@ -52,26 +48,6 @@ Early project name before the rename to `Sorrel Hub: NextGen`, now historical co
 
 Backend mechanism that serves script code to the client.
 
-## Sub ID
-
-Subscription or access identifier used by loader logic.
-
 ## SHProtect
 
 Custom loader/source-code protection.
-
-## Cabinet
-
-Sorrel Hub user cabinet. It belongs to the main website/dashboard direction for now, with no active plan to move it to a separate subdomain.
-
-## Vercel
-
-Platform for frontend / Next.js projects.
-
-## Railway
-
-Platform for backend/API hosting.
-
-## Turnstile
-
-Cloudflare Turnstile, anti-bot protection for login/register flows.

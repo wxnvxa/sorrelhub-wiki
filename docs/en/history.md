@@ -14,19 +14,11 @@ The name came from two parts: `sorrel`, the plant, and `hub`, a place where play
 
 ## 2025
 
-### Spring 2025
-
-The Sorrel Hub logo changed around spring 2025. One version was made in Photoshop.
-
 ### 2025-06-01 00:00 Asia/Yekaterinburg
 
 Old Sorrel Hub was officially deleted.
 
 Before deletion, Lox / `lox_228` was co-owner of old Sorrel Hub. He belongs to the pre-NextGen era and is not the creator of the current Sorrel Hub.
-
-### Late Summer 2025
-
-Sorrel Hub v2 was planned but never released. The v2 animation survived and is stored at `assets/logo/v2-unreleased-animation.png`.
 
 ### September-October 2025~
 
@@ -36,13 +28,13 @@ This is the period when Sorrel Hub started moving away from being a game server 
 
 ### October-November 2025~
 
-Winner's Discord account, which the Sorrel Hub base depended on, received a permanent ban. The reason is unknown.
+Winner's Discord account, which the Sorrel Hub base depended on, received a permanent ban.
 
 After that, the server base was closed, and the project had a reason to restart again.
 
 ### 2025-11-21
 
-Official creation date of the new collaboration and the project relaunch named `NSW x SH`.
+Official project relaunch date under the name `NSW x SH`.
 
 Around the day before (November 20), Winner met `Lovey0x` while testing a `predict tp` script, which later became part of TargetWare history. They quickly hit it off and decided to join forces to create a new shared project.
 
@@ -57,7 +49,7 @@ Meaning:
 - `NSW` - `NeverStopWinning`
 - `SH` - `Sorrel Hub`
 
-This collaboration later evolved into a full reboot, known as `Sorrel Hub: NextGen`.
+The project was later renamed to `Sorrel Hub: NextGen`.
 
 ### 2025-11-23
 
@@ -75,10 +67,8 @@ Facts:
 
 ### 2025-11-24
 
-The first Sorrel Hub website was created.
+The first Sorrel Hub website was created with a focus on WinWare / WinningWare.
 
-- address: `sorrelhub.vercel.app`
-- first focus: WinWare / WinningWare
 - development style: vibe coding
 
 On the same day, Lovey0x officially published LoveyWare for `Violence District`.
@@ -89,12 +79,6 @@ LoveyWare received an update:
 
 - new key system
 - more modules
-
-### 2025-12-14
-
-Sorrel AI launched.
-
-In historical context, it was an AI bot without restrictions or warnings that wrote any code. It did not run for long and was sometimes started manually for testing.
 
 ### 2025-12-15
 
@@ -143,17 +127,9 @@ The `sorrelhub.xyz` website officially moved to v2:
 - recode
 - updated structure
 
-This was not the unreleased v2 from late summer 2025. This was a real website version change.
-
 ### 2026-02-10
 
-`ExploitRPC` was created on GitHub.
-
-ExploitRPC is an open-source Windows `.exe` that tracks activity in supported Roblox injectors and shows the state through Discord Rich Presence.
-
-### 2026-02-19
-
-WinWare was promised for release before this date, but the release did not happen.
+ExploitRPC is discontinued.
 
 ### 2026-04-18
 
@@ -170,3 +146,7 @@ A traditional Sorrel Hub deletion event was held: a new Russian server was creat
 Sorrel Hub stopped using `NextGen` as its current public positioning. From this point forward, the public brand is plain `Sorrel Hub`.
 
 New Discord servers, the website, and versions are treated as restarted from this point. Older NextGen context, servers, site versions, and version numbers remain part of history and should not be mixed into the new Sorrel Hub version line.
+
+### 2026-07-08
+
+Forum discontinued.

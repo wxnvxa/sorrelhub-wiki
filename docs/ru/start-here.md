@@ -12,9 +12,9 @@ Sorrel Hub - dev-экосистема Winner и Lovey0x. Самый первый
 - `Sorrel Hub: NextGen` - предыдущая эпоха перезапуска после `NSW x SH`.
 - `WinWare` - Roblox/Luau направление с фокусом на HvH, Visuals и связанные модули.
 - `LoveyWare` - направление Lovey0x с фокусом на bypass-oriented модули и похожие вещи.
-- `TargetWare` - проект, выросший из predict tp и target esp.
-- `Sorrel AI` - исторический экспериментальный AI-бот в экосистеме Sorrel Hub, не активное текущее web-приложение.
-- `ExploitRPC` - open-source Windows tool для Discord Rich Presence.
+- `TargetWare` - проект, выросший из predict tp и target esp, partially discontinued.
+- `Forum` - discontinued.
+- `ExploitRPC` - discontinued.
 
 ## Почему история выглядит волнами
 
@@ -24,11 +24,10 @@ Sorrel Hub не появился сразу как готовый коммерч
 
 1. Первая идея и старый Sorrel Hub.
 2. Официальное удаление старого Sorrel Hub.
-3. Невышедший Sorrel Hub v2.
-4. Попытка revival под английскую аудиторию.
-5. `NSW x SH`.
-6. `Sorrel Hub: NextGen`.
-7. Sorrel Hub после `2026-06-16 16:00 UTC+5`, с перезапущенными Discord-серверами, сайтом и версиями.
+3. Попытка revival под английскую аудиторию.
+4. `NSW x SH`.
+5. `Sorrel Hub: NextGen`.
+6. Sorrel Hub после `2026-06-16 16:00 UTC+5`, с перезапущенными Discord-серверами, сайтом и версиями.
 
 ## Что значит NextGen
 
@@ -54,12 +53,3 @@ NextGen - предыдущий chapter/reboot
 ## Точка текущего перезапуска
 
 После `2026-06-16 16:00 UTC+5` Sorrel Hub больше не позиционируется как `NextGen`. Новые Discord-серверы, сайт и версии считаются перезапущенными с этой точки. Старые NextGen-версии и публичный контекст относятся к предыдущему chapter и не должны смешиваться с новой линейкой версий.
-
-## Домены
-
-- `sorrelhub.xyz` - основной сайт.
-- `api.sorrelhub.xyz` - API и loader-логика.
-- Кабинет - часть основного сайта/dashboard-направления.
-- `sorrelhub.vercel.app` - ранний Vercel-адрес первой версии сайта.
-
-На момент этой wiki отдельный subdomain для кабинета не является активной целью. `aibot.sorrelhub.xyz` тоже не документируется как активное текущее приложение.

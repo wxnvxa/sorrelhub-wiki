@@ -10,7 +10,7 @@ Later, around September-October 2025, Sorrel Hub started turning into a project 
 
 Directions:
 
-- web dashboard
+- web
 - backend/API
 - Luau / Roblox scripts
 - UI/UX
@@ -24,20 +24,6 @@ The current Sorrel Hub stage starts after `2026-06-16 16:00 UTC+5`.
 Winner and Lovey0x remain the owners and final direction of Sorrel Hub. Lox / `lox_228` belongs to the pre-NextGen era as co-owner of old Sorrel Hub until the end of that era.
 
 `NextGen` should be understood as the previous chapter/reboot name. After the reset point, new Discord servers, the website, and versions are handled as a restarted Sorrel Hub line.
-
-## Web Dashboard
-
-The Sorrel Hub web layer covers the website, account system, connected services, and future dashboard.
-
-The current web direction is moving toward React / Next.js.
-
-Planned domain structure:
-
-- `sorrelhub.xyz` - main website
-- `api.sorrelhub.xyz` - API and loader
-- cabinet - part of the main website/dashboard direction
-
-The cabinet is not being split into a separate subdomain right now, and that is no longer an active architecture goal. `aibot.sorrelhub.xyz` is not documented as an active current app.
 
 ## WinWare
 
@@ -73,23 +59,14 @@ TargetWare grew from `predict tp` and `target esp`.
 Facts:
 
 - officially created and published on 2026-04-18
+- status: partially discontinued
 - related to Roblox gameplay modifications and script analysis
 - early predict tp tests are part of the story of how Winner and Lovey0x met
 
-## Sorrel AI
+## Forum
 
-Sorrel AI is a historical experimental AI bot in the Sorrel Hub ecosystem.
-
-The first launch was on 2025-12-14. Historically, it was an AI bot without restrictions or warnings that wrote any code. It did not run for long and was sometimes started manually.
-
-There is no active current `aibot.sorrelhub.xyz` app documented in this wiki.
+Forum is discontinued.
 
 ## ExploitRPC
 
-ExploitRPC is an open-source Windows app created on 2026-02-10.
-
-Purpose:
-
-- track activity in supported Roblox injectors;
-- show Discord Rich Presence;
-- switch status between idle and Roblox activity.
+ExploitRPC is discontinued.

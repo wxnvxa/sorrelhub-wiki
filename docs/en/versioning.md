@@ -40,7 +40,7 @@ Examples:
 
 - new auth system;
 - new loader protocol;
-- large dashboard/auth architecture change;
+- large architecture change;
 - old API contract removal.
 
 ## Minor

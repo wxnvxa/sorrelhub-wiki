@@ -10,7 +10,7 @@
 
 Направления:
 
-- web dashboard
+- web
 - backend/API
 - Luau / Roblox scripts
 - UI/UX
@@ -24,20 +24,6 @@
 Winner и Lovey0x остаются владельцами и финальным направлением Sorrel Hub. Lox / `lox_228` относится к pre-NextGen эпохе как co-owner старого Sorrel Hub до конца той эпохи.
 
 `NextGen` лучше понимать как название предыдущего chapter/reboot. После точки перезапуска новые Discord-серверы, сайт и версии ведутся как новая линейка Sorrel Hub.
-
-## Web Dashboard
-
-Web-слой Sorrel Hub отвечает за сайт, аккаунт, подключенные сервисы и будущий dashboard.
-
-Текущий web-подход движется в сторону React / Next.js.
-
-Планируемая доменная структура:
-
-- `sorrelhub.xyz` - основной сайт
-- `api.sorrelhub.xyz` - API и loader
-- кабинет - часть основного сайта/dashboard-направления
-
-Кабинет пока не выносится в отдельный subdomain, и это больше не активная архитектурная цель. `aibot.sorrelhub.xyz` не документируется как активное текущее приложение.
 
 ## WinWare
 
@@ -73,23 +59,14 @@ TargetWare вырос из `predict tp` и `target esp`.
 Факты:
 
 - официально создан и опубликован 2026-04-18
+- статус: partially discontinued
 - связан с Roblox gameplay modifications и script analysis
 - ранние тесты predict tp стали частью истории знакомства Winner и Lovey0x
 
-## Sorrel AI
+## Forum
 
-Sorrel AI - исторический экспериментальный AI-бот в экосистеме Sorrel Hub.
-
-Первый запуск был 2025-12-14. Исторически это был AI-бот без ограничений и предупреждений, который писал любой код. Он работал недолго и иногда запускался вручную.
-
-Активного текущего приложения `aibot.sorrelhub.xyz` в этой wiki не задокументировано.
+Forum - discontinued.
 
 ## ExploitRPC
 
-ExploitRPC - open-source Windows-приложение, созданное 2026-02-10.
-
-Назначение:
-
-- отслеживать активность в поддерживаемых Roblox-инжекторах;
-- показывать Discord Rich Presence;
-- менять статус между idle и Roblox activity.
+ExploitRPC - discontinued.

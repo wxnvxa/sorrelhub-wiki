@@ -44,11 +44,6 @@ Only around September-October 2025 did Sorrel Hub move away from the game-server
 - Reset note: Discord servers, website, and version line restarted from `2026-06-16 16:00 UTC+5`
 - Original purpose: Discord server for `Щавель обби` and future Roblox places
 - Current purpose: web/dev ecosystem with Roblox scripting projects and tools
-- Main domain: `sorrelhub.xyz`
-- API domain: `api.sorrelhub.xyz`
-- Sorrel AI status: historical/inactive; no active `aibot.sorrelhub.xyz` app is documented for the current stage
-- Cabinet status: part of the main website/dashboard direction, with no active separate subdomain plan
-- Main stack direction: React / Next.js for web projects
 
 ## Ownership
 
@@ -79,21 +74,19 @@ Sorrel Hub принадлежит двум основателям:
 | Early NextGen Icon | <img src="assets/logo/nextgen-icon-early.png" width="120" alt="Early NextGen icon"> | First icon design preceding the final star. |
 | NextGen | <img src="assets/logo/nextgen-clean.png" width="120" alt="NextGen logo"> | NextGen logo from the previous chapter. |
 | Current v1 | <img src="assets/logo/current-v1.png" width="120" alt="Current v1 logo"> | First iteration of the current minimalist logo. |
-| Current v2 | <img src="assets/logo/current-v2.png" width="120" alt="Current v2 logo"> | Current minimalist logo with starry pattern background. |
 | Current Icon | <img src="assets/logo/current-icon.png" width="120" alt="Current icon"> | Current small icon for Discord, website, and favicons. |
 | Current 3D (Static) | <img src="assets/logo/current-logo-3d.png" width="120" alt="3D static logo"> | 3D render of the current star logo with green tint. |
 | Current 3D (Animated) | <img src="assets/logo/current-logo-3d-animated.gif" width="120" alt="3D animated logo"> | Animated sparkle GIF version of the 3D star logo. |
-| Unreleased v2 animation | <img src="assets/logo/v2-unreleased-animation.png" width="120" alt="Unreleased v2 logo"> | Visual artifact from the unreleased Sorrel Hub v2 attempt. |
 
 ## Ecosystem
 
 - `Sorrel Hub` - main brand and ecosystem.
 - `WinWare` - Roblox/Luau project line focused around HvH, Visuals, and related modules.
 - `LoveyWare` - Lovey0x's project line focused around bypass-oriented modules and related tooling.
-- `TargetWare` - project that grew from predict tp and target esp.
-- `Sorrel AI` - historical experimental AI bot in the Sorrel Hub ecosystem; not an active current web app.
-- `ExploitRPC` - open-source Windows Discord Rich Presence tool for supported Roblox injector activity.
+- `TargetWare` - project that grew from predict tp and target esp, partially discontinued.
+- `Forum` - discontinued.
+- `ExploitRPC` - discontinued.
 
 ## Repository Notes
 
-This repository is documentation-first. It does not contain the website, backend, loader code, WinWare source, LoveyWare source, or Sorrel AI runtime.
+This repository is documentation-first. It does not contain the website, backend, loader code, WinWare source, or LoveyWare source.

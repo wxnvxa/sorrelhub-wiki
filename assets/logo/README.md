@@ -11,8 +11,6 @@ This folder stores public Sorrel Hub logo history used by the README timeline.
 - `nextgen-icon-early.png` - early NextGen star icon design.
 - `nextgen-clean.png` - clean NextGen flat logo.
 - `current-v1.png` - first version of the current flat logo.
-- `current-v2.png` - second version of the current flat logo with background pattern.
 - `current-icon.png` - current minimalist star icon.
 - `current-logo-3d.png` - static 3D version of the current star logo.
 - `current-logo-3d-animated.gif` - animated 3D star logo (sparkle.gif).
-- `v2-unreleased-animation.png` - visual artifact from unreleased Sorrel Hub v2.
