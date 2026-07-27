@@ -74,6 +74,7 @@ Sorrel Hub принадлежит двум основателям:
 | Early NextGen Icon | <img src="assets/logo/nextgen-icon-early.png" width="120" alt="Early NextGen icon"> | First icon design preceding the final star. |
 | NextGen | <img src="assets/logo/nextgen-clean.png" width="120" alt="NextGen logo"> | NextGen logo from the previous chapter. |
 | Current v1 | <img src="assets/logo/current-v1.png" width="120" alt="Current v1 logo"> | First iteration of the current minimalist logo. |
+| Current v2 | <img src="assets/logo/current-v2.png" width="120" alt="Current v2 logo"> | Current minimalist logo with starry pattern background. |
 | Current Icon | <img src="assets/logo/current-icon.png" width="120" alt="Current icon"> | Current small icon for Discord, website, and favicons. |
 | Current 3D (Static) | <img src="assets/logo/current-logo-3d.png" width="120" alt="3D static logo"> | 3D render of the current star logo with green tint. |
 | Current 3D (Animated) | <img src="assets/logo/current-logo-3d-animated.gif" width="120" alt="3D animated logo"> | Animated sparkle GIF version of the 3D star logo. |
