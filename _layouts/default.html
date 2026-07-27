@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="{% if page.path contains '/ru/' %}ru{% else %}en{% endif %}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description }}">
+    <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="site-header">
+        <div class="header-capsule">
+          <a class="brand" href="{{ '/' | relative_url }}" aria-label="Sorrel Hub Wiki home">
+            <img src="{{ '/assets/logo/current-icon.png' | relative_url }}" alt="">
+            <span>Sorrel <b>Hub</b><i>Wiki</i></span>
+          </a>
+          <nav class="header-nav" aria-label="Language navigation">
+            <a href="{{ '/docs/ru/start-here' | relative_url }}">Русский</a>
+            <a href="{{ '/docs/en/start-here' | relative_url }}">English</a>
+          </nav>
+        </div>
+      </header>
+
+      <div class="docs-frame">
+        <aside class="sidebar" aria-label="Documentation navigation">
+          <section>
+            <p class="nav-label">Русский</p>
+            <a href="{{ '/docs/ru/start-here' | relative_url }}">Начать здесь</a>
+            <a href="{{ '/docs/ru/history' | relative_url }}">История</a>
+            <a href="{{ '/docs/ru/products' | relative_url }}">Продукты</a>
+            <a href="{{ '/docs/ru/brand' | relative_url }}">Бренд</a>
+            <a href="{{ '/docs/ru/ownership' | relative_url }}">Владение</a>
+            <a href="{{ '/docs/ru/versioning' | relative_url }}">Версии</a>
+            <a href="{{ '/docs/ru/glossary' | relative_url }}">Глоссарий</a>
+          </section>
+          <section>
+            <p class="nav-label">English</p>
+            <a href="{{ '/docs/en/start-here' | relative_url }}">Start here</a>
+            <a href="{{ '/docs/en/history' | relative_url }}">History</a>
+            <a href="{{ '/docs/en/products' | relative_url }}">Products</a>
+            <a href="{{ '/docs/en/brand' | relative_url }}">Brand</a>
+            <a href="{{ '/docs/en/ownership' | relative_url }}">Ownership</a>
+            <a href="{{ '/docs/en/versioning' | relative_url }}">Versioning</a>
+            <a href="{{ '/docs/en/glossary' | relative_url }}">Glossary</a>
+          </section>
+        </aside>
+
+        <main class="document" id="content">
+          {{ content }}
+        </main>
+      </div>
+    </div>
+  </body>
+</html>

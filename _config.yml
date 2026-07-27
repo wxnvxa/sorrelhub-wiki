@@ -1,5 +1,6 @@
 title: Sorrel Hub Wiki
 description: Public Sorrel Hub documentation
-theme: jekyll-theme-cayman
+baseurl: /sorrelhub-wiki
+permalink: pretty
 
 markdown: kramdown
