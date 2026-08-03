@@ -67,6 +67,16 @@ Facts:
 - related to Roblox gameplay modifications and script analysis
 - early predict tp tests are part of the story of how Winner and Lovey0x met
 
+## SHProtect AntiCheat
+
+SHProtect AntiCheat is a separate Sorrel Hub Roblox direction for protecting game servers from suspicious movement, RemoteEvent abuse, and selected client-side tampering signals.
+
+The project is server-first. Its checks cover speed, teleport, fly/hover, infinite jump, noclip, fling, CFrame movement, and remote spam. The client watchdog sends a heartbeat and limited state reports, but it is not treated as an independent security boundary.
+
+Thresholds and responses are centralized in configuration. Exemption tags are available for legitimate teleports, dashes, knockback, and scripted motion so normal game mechanics can coexist with the checks.
+
+The source is published in [`sorrelhub/shprotect-ac`](https://github.com/sorrelhub/shprotect-ac). It is an infrastructure project for Roblox experiences, not a user-facing script hub.
+
 ## Forum
 
 Forum is discontinued.

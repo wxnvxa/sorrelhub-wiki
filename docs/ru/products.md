@@ -67,6 +67,16 @@ TargetWare вырос из `predict tp` и `target esp`.
 - связан с Roblox gameplay modifications и script analysis
 - ранние тесты predict tp стали частью истории знакомства Winner и Lovey0x
 
+## SHProtect AntiCheat
+
+SHProtect AntiCheat - отдельное Roblox-направление Sorrel Hub для защиты игровых серверов от подозрительного движения, злоупотребления RemoteEvent и части клиентских вмешательств.
+
+Проект построен вокруг серверной проверки. В него входят детекторы скорости, телепорта, fly/hover, infinite jump, noclip, fling, CFrame-движения и remote spam. Клиентский watchdog отправляет heartbeat и ограниченные отчеты о состоянии, но не является самостоятельной границей безопасности.
+
+Пороговые значения и реакция на нарушения вынесены в конфигурацию. Для легитимных телепортов, dash, knockback и scripted motion предусмотрены exemption tags, чтобы игровые механики не конфликтовали с проверками.
+
+Исходный код опубликован в репозитории [`sorrelhub/shprotect-ac`](https://github.com/sorrelhub/shprotect-ac). Это инфраструктурный Roblox-проект, а не пользовательский script hub.
+
 ## Forum
 
 Forum - discontinued.
