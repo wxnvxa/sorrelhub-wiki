@@ -49,7 +49,7 @@ The current public name is just `Sorrel Hub`.
 
 It is important not to mix the old and current eras.
 
-The original Sorrel Hub was connected to Winner and his Roblox game `Щавель обби`. In the pre-NextGen era, Lox / `lox_228` was a co-owner until the end of that era, but he was not the creator of the current Sorrel Hub.
+The original Sorrel Hub was connected to Winner and his Roblox game `Щавель обби`. In the pre-NextGen era, Lox / `lox_228` was a co-owner of old Sorrel Hub until the end of that era, but he was not the creator of either the old or current Sorrel Hub.
 
 The current Sorrel Hub is directed by Winner and Lovey0x. Lovey0x is not just "the person with a script"; he is a co-owner of the current Sorrel Hub and the owner of the LoveyWare direction.
 

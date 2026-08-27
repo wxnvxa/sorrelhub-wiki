@@ -39,7 +39,7 @@ Only around September-October 2025 did Sorrel Hub move away from the game-server
 - Old Sorrel Hub deletion date: `2025-06-01 00:00`, Yekaterinburg time
 - Current era: `Sorrel Hub`, restarted after `2026-06-16 16:00 UTC+5`
 - Current era owners/final direction: Winner and Lovey0x
-- Pre-NextGen co-owner: Lox / `lox_228`
+- Pre-NextGen role: Lox / `lox_228` was a co-owner of old Sorrel Hub until the end of that era, but was not its creator and is not a creator or owner of the current Sorrel Hub.
 - Previous reboot/chapter: `Sorrel Hub: NextGen`
 - Reset note: Discord servers, website, and version line restarted from `2026-06-16 16:00 UTC+5`
 - Original purpose: Discord server for `Щавель обби` and future Roblox places

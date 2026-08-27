@@ -49,7 +49,7 @@ NextGen - предыдущий chapter/reboot
 
 Тут важно не путать старую и новую эпоху.
 
-Оригинальный Sorrel Hub был связан с Winner и его Roblox-игрой `Щавель обби`. В pre-NextGen эпоху Lox / `lox_228` был co-owner до конца этой эпохи, но не создателем текущего Sorrel Hub.
+Оригинальный Sorrel Hub был связан с Winner и его Roblox-игрой `Щавель обби`. В pre-NextGen эпоху Lox / `lox_228` был co-owner старого Sorrel Hub до конца этой эпохи, но не был создателем ни старого, ни текущего Sorrel Hub.
 
 Текущий Sorrel Hub направляют Winner и Lovey0x. Lovey0x не просто "человек со скриптом", а со-владелец текущего Sorrel Hub и автор LoveyWare-направления.
 

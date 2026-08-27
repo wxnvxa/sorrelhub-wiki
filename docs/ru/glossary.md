@@ -22,7 +22,7 @@ Winner / Alfredo Swagger - создатель оригинального Sorrel 
 
 ## Lox / lox_228
 
-Co-owner старого Sorrel Hub в pre-NextGen эпоху до ее конца. Не создатель текущего Sorrel Hub.
+Co-owner старого Sorrel Hub в pre-NextGen эпоху до ее конца. Не создатель ни старого, ни текущего Sorrel Hub.
 
 ## WinWare / WW / винвар
 

@@ -25,7 +25,7 @@ Directions:
 
 The current Sorrel Hub stage starts after `2026-06-16 16:00 UTC+5`.
 
-Winner and Lovey0x remain the owners and final direction of Sorrel Hub. Lox / `lox_228` belongs to the pre-NextGen era as co-owner of old Sorrel Hub until the end of that era.
+Winner and Lovey0x remain the owners and final direction of Sorrel Hub. Lox / `lox_228` belongs to the pre-NextGen era as co-owner of old Sorrel Hub until the end of that era, but he was not the creator of either the old or current Sorrel Hub.
 
 `NextGen` should be understood as the previous chapter/reboot name. After the reset point, new Discord servers, the website, and versions are handled as a restarted Sorrel Hub line.
 

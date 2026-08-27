@@ -22,7 +22,7 @@ The name came from two parts: `sorrel`, the plant, and `hub`, a place where play
 
 Old Sorrel Hub was officially deleted.
 
-Before deletion, Lox / `lox_228` was co-owner of old Sorrel Hub. He belongs to the pre-NextGen era and is not the creator of the current Sorrel Hub.
+Before deletion, Lox / `lox_228` was co-owner of old Sorrel Hub. He belongs to the pre-NextGen era and was not the creator of either the old or current Sorrel Hub.
 
 ### September-October 2025~
 

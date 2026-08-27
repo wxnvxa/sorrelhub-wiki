@@ -22,7 +22,7 @@ Co-owner of the current Sorrel Hub and owner of the LoveyWare direction.
 
 ## Lox / lox_228
 
-Co-owner of old Sorrel Hub during the pre-NextGen era until the end of that era. Not the creator of the current Sorrel Hub.
+Co-owner of old Sorrel Hub during the pre-NextGen era until the end of that era. Not the creator of either the old or current Sorrel Hub.
 
 ## WinWare / WW
 
